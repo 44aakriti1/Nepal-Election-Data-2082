@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment
+venv/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore CSVs if you want (optional)
+# *.csv
